@@ -11,7 +11,9 @@ public class FourSquare {
 		// 4. Make the robot move as fast as possible
 daniela.setSpeed(200);
 		// 5. Set the pen width to 5
+daniela.penDown();
 daniela.setPenWidth(5);
+
 		// 6. Use a for loop to repeat steps #7 to #8, four times...
 for(int i=0 ;i<4; i++) {
 			// 7. Set the pen color to random
