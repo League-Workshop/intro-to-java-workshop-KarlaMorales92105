@@ -13,7 +13,7 @@ String name= JOptionPane.showInputDialog("Who don't you like?");
 		// 3. Ask the user for the name of their best friend
 String rosa= JOptionPane.showInputDialog("Who is your best friend?");
 		// 4. Tell them their best friend is as sweet as candy
-
+String = JOptionPane.showMessageDialog(null, Your friend is as sweet as candy");
 	} 
 }
 
